@@ -1,5 +1,5 @@
 <!-- Some Stats Display -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesperKD&hide=CSS,SCSS,HTML,Javascript,Dockerfile,ASP.NET&theme=midnight-purple&show_icons=true&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesperKD&theme=midnight-purple&show_icons=true&langs_count=10)
 ![iZeQure's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesperKD&theme=midnight-purple&show_icons=true?count_private=true) 
 
 <!-- Repo Stats Display -->
