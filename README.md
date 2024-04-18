@@ -2,9 +2,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesperKD&theme=midnight-purple&show_icons=true&langs_count=10)
 ![iZeQure's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesperKD&theme=midnight-purple&show_icons=true?count_private=true) 
 
-<!-- Repo Stats Display -->
-[![Job Agent Repo](https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=JobAgent&theme=midnight-purple&show_owner=false)](https://github.com/iZeQure/JobAgent) 
-
 <!--
 **JesperKD/JesperKD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
